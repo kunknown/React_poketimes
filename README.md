@@ -1,4 +1,4 @@
-#React_poketimes
+# React_poketimes
 A simple website that displays data in a delete-able card format using React & Redux.
 
 **Home Page**
