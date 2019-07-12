@@ -11,4 +11,4 @@ A simple website that displays data in a delete-able card format using React & R
 
 **Disclaimer**
 *The stylesheet used in this project is Materialcss:* https://materializecss.com/ .
-*The online resource used for this project is Youtube(The Net Ninja):* https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
+*The online resource used for this project is Youtube(The Net Ninja):* https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg
