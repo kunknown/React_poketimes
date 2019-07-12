@@ -1,3 +1,4 @@
+#React_poketimes
 A simple website that displays data in a delete-able card format using React & Redux.
 
 **Home Page**
@@ -7,3 +8,7 @@ A simple website that displays data in a delete-able card format using React & R
 **Delete-able Card**
 *Once user clicks on a card that card's ID is userd to display only that card's information to the user along with a delete button. Once delete button is clicked the card is deleted from the Redux store and the user is redirected to the home page.*
 ![](https://github.com/kunknown/React_poketimes/blob/master/public/README%20content/single_card.PNG)
+
+**Disclaimer**
+Stylesheet used in this project is Materialcss: https://materializecss.com/
+The online resource used for this project is Youtube(The Net Ninja): https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
