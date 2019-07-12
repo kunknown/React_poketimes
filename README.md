@@ -10,5 +10,5 @@ A simple website that displays data in a delete-able card format using React & R
 ![](https://github.com/kunknown/React_poketimes/blob/master/public/README%20content/single_card.PNG)
 
 **Disclaimer**
-Stylesheet used in this project is Materialcss: https://materializecss.com/
-The online resource used for this project is Youtube(The Net Ninja): https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
+*The stylesheet used in this project is Materialcss:* https://materializecss.com/ .
+*The online resource used for this project is Youtube(The Net Ninja):* https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG
