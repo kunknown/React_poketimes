@@ -10,7 +10,7 @@ const Navbar = (props) => {
             <div className="container">
                 <a href='/home' className="brand-logo">Poke'Times</a>
                 <ul className="right">
-                    <li><Link to="/Home">Home</Link></li>
+                    <li><Link to="/home">Home</Link></li>
                     <li><Link to="/about">About</Link></li>
                     <li><NavLink to="/contact">Contact</NavLink></li>
                 </ul>
